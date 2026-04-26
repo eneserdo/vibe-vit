@@ -1,0 +1,4 @@
+__pycache__/
+*.zip
+runs/
+tiny-imagenet-200/
